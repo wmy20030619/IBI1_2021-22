@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:
+# Answer:Draw 10 random integer between 1 and 100, then print the 10th number on the screen.
 
 # Import libraries
 # randint allows drawing a random number,
