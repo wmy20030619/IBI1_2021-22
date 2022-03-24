@@ -1,0 +1,2 @@
+I met problems when copying files from elsewhere to my own directory.
+It also took me some time to perform "git push"
