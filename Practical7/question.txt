@@ -1,0 +1,8 @@
+Q:How have new cases and total cases developed over time in Australia?
+
+line54 to line76 are used to solve this problem.
+
+discussion: 
+I display the new cases and total cases developed over time separately because the total cases are much higher than new cases, if they are shown in one plot, the trend of new cases will be not obvious.
+From the first plot, new cases over time is shown. The number of new cases remains low at the beginning, after 2020/3/19, the new cases begin to grow rapidly and larger than 100 per day. It reaches the highest in 2020/3/23, which is 611 cases per day.
+From the second plot, total cases over time is shown. Similar to the first plot, the total cases increase slowly at first and grow more quickly after 2020/3/19. As total cases will not decline over time, the line keeps growing.  
