@@ -1,7 +1,8 @@
 #start at the first cut
 n=1
+p=0
 #finish cutting?
-while n<65:
+while p<64:
 
 #False
 #calulate the slices
@@ -11,6 +12,6 @@ while n<65:
 #have a more cut
  n+=1
 #repeat
-
+print('after',n-1,'cuts,the number of pizza slices can be 64')
 #True
 #finish
